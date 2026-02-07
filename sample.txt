@@ -1,0 +1,11 @@
+Hello, Git Hub
+
+
+>git init
+>git config --global user.name "Vyas-Naidu"
+>git config --global user.email "vedavyas0692gmail.com"
+>git add .
+>git commit -m "files added to new repo"
+>git remote add origin "https://github.com/Vyas-Naidu/batch-35-repo.git"
+>git push -u origin master
+
